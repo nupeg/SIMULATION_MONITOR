@@ -1,0 +1,21 @@
+2026-10-20 12:00:02,679 - INFO - Starting simulation monitoring.
+2026-10-20 12:00:02,679 - INFO - Root directory: C:\Users\labsi\Documents\Resultados_densidade_ternaria\Tabela_resultados_ternaria\Pastas modelos
+2026-10-20 12:00:04,006 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.918_X1_0.84_X2_0.16_T_323.15_P_1 | Status: Success
+2026-10-20 12:00:05,319 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.925_X1_0.68_X2_0.32_T_328.15_P_1 | Status: Success
+2026-10-20 12:00:06,712 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.944_X1_0.68_X2_0.32_T_273.15_P_1 | Status: Success
+2026-10-20 12:00:08,099 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.989_X1_0.39_X2_0.61_T_308.15_P_1 | Status: Success
+2026-10-20 12:00:08,351 - INFO - Monitoring completed.
+2026-10-20 12:00:08,351 - INFO - Simulations processed: 4
+2026-10-20 12:00:08,351 - INFO - Excel file updated: C:\Users\labsi\Documents\Simulation_monitor\simulation_parameters.xlsx
+2026-10-20 12:00:08,351 - INFO - Log file: C:\Users\labsi\Documents\Simulation_monitor\logs\monitor_simulations.log
+2026-10-20 12:04:42,415 - INFO - Starting simulation monitoring.
+2026-10-20 12:04:42,415 - INFO - Root directory: C:\Users\labsi\Documents\Resultados_densidade_ternaria\Tabela_resultados_ternaria\Pastas modelos
+2026-10-20 12:04:43,773 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.918_X1_0.84_X2_0.16_T_323.15_P_1 | Status: Success
+2026-10-20 12:04:45,164 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.925_X1_0.68_X2_0.32_T_328.15_P_1 | Status: Success
+2026-10-20 12:04:46,512 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.944_X1_0.68_X2_0.32_T_273.15_P_1 | Status: Success
+2026-10-20 12:04:47,789 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.989_X1_0.39_X2_0.61_T_308.15_P_1 | Status: Success
+2026-10-20 12:04:47,789 - INFO - Processed: S1_CaCl2_S2_KCl_M_0.989_X1_0.39_X2_0.61_T_310.15_P_1 | Status: Not simulated
+2026-10-20 12:04:48,016 - INFO - Monitoring completed.
+2026-10-20 12:04:48,016 - INFO - Simulations processed: 5
+2026-10-20 12:04:48,017 - INFO - Excel file updated: C:\Users\labsi\Documents\Simulation_monitor\simulation_parameters.xlsx
+2026-10-20 12:04:48,017 - INFO - Log file: C:\Users\labsi\Documents\Simulation_monitor\logs\monitor_simulations.log
